@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "browserslist": "^4.23.0",
-    "lite-youtube-embed": "^0.3.2"
+    "lite-youtube-embed": "^0.3.2",
+    "modern-normalize": "^2.0.0"
   }
 }
