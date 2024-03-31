@@ -1,9 +1,10 @@
 {
   "name": "ice",
   "version": "1.0.0",
+   "homepage": "https://github.com/Alissandri/ice.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html"
+    "build": "parcel build src/*.html --public-url /ice/"
   },
   "keywords": [],
   "author": "",
